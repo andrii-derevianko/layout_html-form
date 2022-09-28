@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,YACE,aAAc,CACd,WACF,CAMA,8BACE,gBACF","file":"style.5f6ac046.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.form-field {\n  display: block;\n  margin: 10px;\n}\n\n.fieldset-form {\n  margin: 20px 50px;\n}\n\n.button-submit {\n  margin: 20px 50px;\n}\n"]}
